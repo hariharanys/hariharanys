@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Confluence InfoTech Solutions](https://www.confluenceinfotechsolutions.in)**
+- 🔭 I’m currently working on **[SHLOK Information Systems India Pvt Ltd](https://shloklabs.com/)**
 
 - 🌱 I’m currently learning **node js**
 
